@@ -18,6 +18,9 @@ if age >=18:
 
 4. Print "Pass" if marks are greater than 40.
 
+
+
+
 marks = int(input("Enter your marks:"))
 if marks >40:
     print("pass")           # Pass
@@ -52,14 +55,14 @@ if num%10==0:
 
 10.#### Print a warning if balance is below minimum limit. 
 --------------------------------------------------------------------------
-"""
+
 bal=int(input("Enter yout balance: "))
 war_amt=2000
 if bal<war_amt:
     print("warning")
 
 
-------------------------------------------------------------------------------
+#------------------------------------------------------------------------------
 11. Check whether a number is even or odd.
 
 num = int(input("Enter A Number : "))
@@ -96,9 +99,9 @@ else:
 if age >=18:
     print("Eligible to vote") # Eligible to vote
 
-a = int(input("enter the number "))
+a = int(input("Enter the Number: "))
 if a%7==0:
-    print("DIVIBLE BY 7",a)"""
+    print("DIVIBLE BY 7",a)
 
 str='Anshika'
 if len(str)>8:
