@@ -1,15 +1,16 @@
 """
 ATM MANAGEMENT SYSTEM
    
-1.Create Account
-2. Login
-3. Deposit
-4. Withdraw
-5. Balance Enquiry
-6.Mini Statement
-7.Change PIN
-8.Delete Account
-0.Exit
+    1.Create Account
+    2.view all account
+    3. Login
+    4. Deposit
+    5. Withdraw
+    6.Change PIN
+    7. Balance Enquiry
+    8.Delete Account
+     0.Exit
+   
 
 """
 #IMPORT PICKLE
