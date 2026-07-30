@@ -1,15 +1,15 @@
 """
 ATM MANAGEMENT SYSTEM
    
-    1.Create Account
-    2.view all account
+    1. Create Account
+    2. view all account
     3. Login
     4. Deposit
     5. Withdraw
-    6.Change PIN
+    6. Change PIN
     7. Balance Enquiry
-    8.Delete Account
-     0.Exit
+    8. Delete Account
+    0. Exit
    
 
 """
